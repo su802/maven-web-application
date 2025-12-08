@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to sudheer devops academy</h1>
 <h1 align="center">Phone Number: +91 9182096456</h1>
-<h1 align="center">Sudheer devops sudheer Academy is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
+<h1 align="center">Sudheer devops sudheer Academy is a Very a Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
 
 <h1 align="center">Trainer Name: sudheer</h1>
 
