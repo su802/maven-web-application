@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to the sudheer devops academy</h1>
+<h1 align="center">Welcome welcome to the sudheer devops academy</h1>
 <h1 align="center">Phone Number: +91 9182096456</h1>
 <h1 align="center">Sudheer devops sudheer Academy is a Very a Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
 
