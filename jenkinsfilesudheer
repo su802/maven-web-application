@@ -1,0 +1,18 @@
+pipeline{
+    agent any
+    tools {
+        maven "maven3.8.4"
+    }
+    stages{
+        stage("checkout"){
+            steps{
+                git credentialsId: 'dad56a8a-4bab-4fa5-8e1d-8fccb9005e37', url: 'https://github.com/su802/maven-web-application.git'
+            }
+        }
+        stage("build"){
+            steps{
+                sh 'mvn clean install'
+            }
+        }
+    }
+}
